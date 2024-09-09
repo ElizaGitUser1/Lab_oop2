@@ -1,0 +1,10 @@
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.csproj.AssemblyReference.cache
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.Bank_Acc.resources
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.Properties.Resources.resources
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.csproj.GenerateResource.cache
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.csproj.CoreCompileInputs.cache
+C:\Git_proj\Bank_Account1\Bank_Account1\bin\Debug\Bank_Account1.exe.config
+C:\Git_proj\Bank_Account1\Bank_Account1\bin\Debug\Bank_Account1.exe
+C:\Git_proj\Bank_Account1\Bank_Account1\bin\Debug\Bank_Account1.pdb
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.exe
+C:\Git_proj\Bank_Account1\Bank_Account1\obj\Debug\Bank_Account1.pdb
